@@ -1,0 +1,14 @@
+C:\Users\Priti\source\repos\EContact\EContact\bin\Debug\EContact.exe.config
+C:\Users\Priti\source\repos\EContact\EContact\bin\Debug\EContact.exe
+C:\Users\Priti\source\repos\EContact\EContact\bin\Debug\EContact.pdb
+C:\Users\Priti\source\repos\EContact\EContact\obj\Debug\EContact.csprojAssemblyReference.cache
+C:\Users\Priti\source\repos\EContact\EContact\obj\Debug\EContact.EContact.resources
+C:\Users\Priti\source\repos\EContact\EContact\obj\Debug\EContact.Properties.Resources.resources
+C:\Users\Priti\source\repos\EContact\EContact\obj\Debug\EContact.csproj.GenerateResource.cache
+C:\Users\Priti\source\repos\EContact\EContact\obj\Debug\EContact.csproj.CoreCompileInputs.cache
+C:\Users\Priti\source\repos\EContact\EContact\obj\Debug\EContact.exe
+C:\Users\Priti\source\repos\EContact\EContact\obj\Debug\EContact.pdb
+C:\Users\Priti\source\repos\EContact\EContact\obj\Debug\EContact.Login.resources
+C:\Users\Priti\source\repos\EContact\EContact\obj\Debug\EContact.Register.resources
+C:\Users\Priti\source\repos\EContact\EContact\obj\Debug\EContact.Reset.resources
+C:\Users\Priti\source\repos\EContact\EContact\obj\Debug\EContact.Profile.resources
